@@ -1,0 +1,37 @@
+ul.navbar-nav>li>a{letter-spacing: 0.2rem;text-transform: uppercase;}
+ul.navbar-nav>li.nav-item.dropdown>.dropdown-menu>a{letter-spacing: 0.15rem;}
+.gm{margin-top: 2em;}
+.list-unstyled li{padding: 1.5rem;border-bottom: 1px solid #343a40;}
+.list-unstyled li a{color: black;text-decoration: none;}
+
+footer{padding: 2rem;background-color: #eee;margin-top: 2rem;}
+footer a{color: #666666;transition: color 0.4s ease-in;padding: 0.2rem;letter-spacing: 0.1rem;text-transform: uppercase;}
+footer p{letter-spacing: 0.1rem;text-transform: uppercase;}
+footer a:hover{color: black;text-decoration: none;}
+.h5{margin-top: 30px;}
+.h6{position: relative;top: 5%;}
+.h7{margin-top: 30px;}
+.h8{position: relative;top: 50%;transform: translate(0,-50%);}
+.h9{padding: 15px;}
+.h10{padding: 0;}
+.h111{padding: 0;} 
+.h112{padding: 0 15px;}
+.h113{margin-left: 15px;margin-right: 15px;}  
+.card-imgpromo{height: 100%;width: 100%;position: relative;top: 1.5%;}
+.card-imginfo{height: 100%;width: 100%;}
+*{
+    color: white!important;
+    text-shadow: -1px 0 rgb(53, 53, 53), 0 1px rgb(53, 53, 53), 1px 0 rgb(53, 53, 53), 0 -1px rgb(53, 53, 53);
+}
+p, td{
+    text-shadow:none;
+}
+footer p{
+    text-shadow: -1px 0 rgb(53, 53, 53), 0 1px rgb(53, 53, 53), 1px 0 rgb(53, 53, 53), 0 -1px rgb(53, 53, 53);
+}
+input, textarea{text-shadow:none;}
+hr{height: 1px;background-color: white;}
+.form-control{color: black!important;}
+.ezLaganica {width: 100%!important;}
+nav li:hover, footer li:hover, a[class="dropdown-item"]:hover{background-color: rgb(33,33,33);}
+nav .active{border: 1px solid rgb(33,33,33);}
